@@ -9,3 +9,9 @@ body {
     border-radius: 5px;
     text-decoration: none;
 }
+p {
+
+color:purple;
+    display:flex;
+
+}
